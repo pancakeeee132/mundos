@@ -1,0 +1,64 @@
+{
+  "ReverseCategorys": true,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "第1回 花見",
+      "Worlds": [
+        {
+          "ID": "wrld_f8c1d36d-1ba5-40f4-ba7c-7b2f953b7b16",
+          "Name": "丘の上のお花見会場~okanouenoohanamikaijyo~",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "丘の上にあるお花見会場です。是非宴会等にお使いください",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "第2回 四季",
+      "Worlds": [
+        {
+          "ID": "wrld_1611ec65-15ed-4d25-bb40-9304e6dbbd3b",
+          "Name": "Japan After School",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Japan After School 放課後の帰り道 夏 - Summer - 本体 ｜ 春・秋・冬は別ワールドになりました。",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1ebe0e80-f311-4b8c-9268-767d9e83c70b",
+          "Name": "花火岬 Fireworks Cape",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "2025․08․19 quest対応",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d8b9cfe6-2d63-49b8-bf1b-9d9f86c86696",
+          "Name": "Septembers End ［MapAWeek］ pt․24",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "（EN ｜ 日本語 ｜ español）My 24th Weekly map uploadǃ - A peaceful autum hilltop with ambient sfx‚mirrors‚scenery and moreǃ",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
+        }
