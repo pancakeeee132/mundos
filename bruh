@@ -1,60 +1,17 @@
 {
-  "ReverseCategorys": true,
-  "ShowPrivateWorld": false,
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": true,
+
   "Categorys": [
     {
-      "Category": "第1回 花見",
+      "Category": "Evento 1 – Mundos Relax",
       "Worlds": [
         {
-          "ID": "wrld_f8c1d36d-1ba5-40f4-ba7c-7b2f953b7b16",
-          "Name": "丘の上のお花見会場~okanouenoohanamikaijyo~",
-          "RecommendedCapacity": 80,
-          "Capacity": 80,
-          "Description": "丘の上にあるお花見会場です。是非宴会等にお使いください",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        }
-      ]
-    },
-    {
-      "Category": "第2回 四季",
-      "Worlds": [
-        {
-          "ID": "wrld_1611ec65-15ed-4d25-bb40-9304e6dbbd3b",
-          "Name": "Japan After School",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Japan After School 放課後の帰り道 夏 - Summer - 本体 ｜ 春・秋・冬は別ワールドになりました。",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_1ebe0e80-f311-4b8c-9268-767d9e83c70b",
-          "Name": "花火岬 Fireworks Cape",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "2025․08․19 quest対応",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_d8b9cfe6-2d63-49b8-bf1b-9d9f86c86696",
-          "Name": "Septembers End ［MapAWeek］ pt․24",
-          "RecommendedCapacity": 80,
-          "Capacity": 80,
-          "Description": "（EN ｜ 日本語 ｜ español）My 24th Weekly map uploadǃ - A peaceful autum hilltop with ambient sfx‚mirrors‚scenery and moreǃ",
+          "ID": "wrld_aaaa1111-bbbb-2222-cccc-333333333333",
+          "Name": "Praia do Pôr-do-Sol",
+          "RecommendedCapacity": 12,
+          "Capacity": 24,
+          "Description": "Uma praia tranquila com um pôr-do-sol permanente.",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -63,17 +20,49 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_d48939e3-d3c3-40ba-ba30-55a26cd3fbc7",
-          "Name": "ささやきの雨庭 - Whispering rain garden -",
-          "RecommendedCapacity": 32,
-          "Capacity": 64,
-          "Description": "曇り空から落ちては弾ける雨粒と水に揺らぐ緑に囲まれて、ゆっくりと流れる時間を過ごしましょう・・・読書室の本を眺めたり、雨と緑を映すお茶碗とともにお茶室の畳に座ってみたり．眠くなったら隠れた片隅でお昼寝を・・・A submerged lakeside residence and Japanese garden wrapped in the sound of rain․ Inside‚ you'll find a reading room‚ a terrarium chamber‚ and an aerial chashitsu․ Cozy beds and relaxing spots are scattered throughout․",
-          "ReleaseStatus": "public",
+          "ID": "wrld_dddd4444-eeee-5555-ffff-666666666666",
+          "Name": "Casa da Montanha",
+          "RecommendedCapacity": 6,
+          "Capacity": 12,
+          "Description": "Uma cabana aconchegante no topo de uma montanha nevada.",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "private"
+        }
+      ]
+    },
+
+    {
+      "Category": "Evento 2 – Mundos Futuristas",
+      "Worlds": [
+        {
+          "ID": "wrld_12345678-90ab-cdef-1234-567890abcdef",
+          "Name": "Cidade Neon 2077",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Uma metrópole cheia de luzes neon e drones voando.",
           "Platform": {
             "PC": true,
             "Android": true,
             "iOS": true
-          }
+          },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ffeeddcc-bbaa-9988-7766-554433221100",
+          "Name": "Laboratório Quantum",
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "Um laboratório científico com máquinas misteriosas.",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "public"
         }
       ]
     }
