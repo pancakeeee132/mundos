@@ -61,4 +61,21 @@
             "iOS": false
           },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d48939e3-d3c3-40ba-ba30-55a26cd3fbc7",
+          "Name": "ささやきの雨庭 - Whispering rain garden -",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "曇り空から落ちては弾ける雨粒と水に揺らぐ緑に囲まれて、ゆっくりと流れる時間を過ごしましょう・・・読書室の本を眺めたり、雨と緑を映すお茶碗とともにお茶室の畳に座ってみたり．眠くなったら隠れた片隅でお昼寝を・・・A submerged lakeside residence and Japanese garden wrapped in the sound of rain․ Inside‚ you'll find a reading room‚ a terrarium chamber‚ and an aerial chashitsu․ Cozy beds and relaxing spots are scattered throughout․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": true
+          }
         }
+      ]
+    }
+  ]
+}
