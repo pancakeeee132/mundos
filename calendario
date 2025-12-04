@@ -1,55 +1,57 @@
 {
   "genres": {
-    "Bar": 2,
-    "Café": 1,
-    "Para iniciantes": 2
+    "Bar": 10,
+    "Café": 5,
+    "Para iniciantes": 8,
+    "Eventos gerais": 12
   },
   "events": [
     {
-      "id": "ev001",
+      "id": "abc123",
       "quest": true,
-      "title": "Bar dos Amigos VR",
+      "title": "Bar Virtual Amigos",
       "start": "2025-12-10T20:00:00.000-03:00",
       "end": "2025-12-10T22:00:00.000-03:00",
       "author": "JoãoVR",
-      "body": "Um bar virtual para conversar, relaxar e conhecer novas pessoas. Ambiente leve e descontraído.",
+      "body": "Um bar virtual descontraído para conversar e conhecer novas pessoas.",
       "genres": [
         "Bar",
         "Para iniciantes"
       ],
-      "condition": "Utilizar avatar leve. Sem conteúdo adulto.",
-      "way": "Entrar no grupo 'BARVR.1000' e acessar o Group+ no horário do evento.",
+      "condition": "Não usar avatares pesados ou com partículas.",
+      "way": "Entrar no grupo BARVR.1000 e acessar o Group+ no horário.",
       "note": "Instagram: @bardosamigosvr"
     },
     {
-      "id": "ev002",
+      "id": "xyz789",
       "quest": false,
-      "title": "Café Relax VR",
+      "title": "Café Sereno",
       "start": "2025-12-11T15:00:00.000-03:00",
       "end": "2025-12-11T17:00:00.000-03:00",
       "author": "Luna",
-      "body": "Um café calmo para conversar, ouvir música relaxante ou simplesmente fazer companhia enquanto estuda ou trabalha.",
+      "body": "Um café calmo para relaxar e bater papo.",
       "genres": [
-        "Café"
+        "Café",
+        "Eventos gerais"
       ],
-      "condition": "Evitar avatares brilhantes ou com partículas.",
-      "way": "Entrar no grupo 'CAFE.2025' e acessar o Group+ no horário.",
+      "condition": "Evitar avatares muito grandes ou com luzes fortes.",
+      "way": "Entrar no grupo CAFE.2025 e acessar o Group+ no horário.",
       "note": ""
     },
     {
-      "id": "ev003",
+      "id": "nov999",
       "quest": true,
-      "title": "Encontro para Novatos",
+      "title": "Boas-vindas para Novatos",
       "start": "2025-12-12T19:30:00.000-03:00",
       "end": "2025-12-12T20:30:00.000-03:00",
       "author": "MestreVR",
-      "body": "Evento de boas-vindas para novos jogadores. Tiramos dúvidas, ensinamos controles e ajudamos com configurações.",
+      "body": "Evento para ajudar novos jogadores: controles, configurações e dicas.",
       "genres": [
         "Para iniciantes"
       ],
-      "condition": "Ser educado e respeitar os demais participantes.",
-      "way": "Acessar o grupo 'NOVATOS.9090' e entrar na instância do evento.",
-      "note": "Traga água! Vamos te ajudar com tudo."
+      "condition": "Ser educado e respeitar todos os participantes.",
+      "way": "Entrar no grupo NOVATOS.9090 e acessar o Group+.",
+      "note": "Traga água!"
     }
   ]
 }
