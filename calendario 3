@@ -1,9 +1,17 @@
 {
   "genres": {
-    "Bar": 10,
-    "Café": 5,
-    "Para iniciantes": 8,
-    "Eventos gerais": 12
+    "Bar": 1,
+    "Café": 1,
+    "Para iniciantes": 2,
+    "Eventos gerais": 1,
+    "festa": 0,
+    "filmes": 0,
+    "iniciantes": 0,
+    "musicas": 0,
+    "RP": 0,
+    "Bate-papo": 0,
+    "Minigames": 0,
+    "Hangout": 0
   },
   "events": [
     {
