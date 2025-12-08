@@ -4,14 +4,14 @@
 
   "Categorys": [
     {
-      "Category": "Evento 1 – Mundos Relax",
+      "Category": "vibes",
       "Worlds": [
         {
-          "ID": "wrld_aaaa1111-bbbb-2222-cccc-333333333333",
-          "Name": "Praia do Pôr-do-Sol",
-          "RecommendedCapacity": 12,
-          "Capacity": 24,
-          "Description": "Uma praia tranquila com um pôr-do-sol permanente.",
+          "ID": "wrld_8d0c0554-9b02-44ae-a30d-0581f1c0412a",
+          "Name": "Isolated",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "Isolated․",
           "Platform": {
             "PC": true,
             "Android": true,
