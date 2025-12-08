@@ -9,6 +9,9 @@
         {
           "ID": "wrld_8d0c0554-9b02-44ae-a30d-0581f1c0412a",
           "Name": "Isolated",
+          "Author": "CreatorName",
+          "Likes": 1240,
+          "Index": 0,
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "Isolated․",
@@ -22,6 +25,9 @@
         {
           "ID": "wrld_dddd4444-eeee-5555-ffff-666666666666",
           "Name": "Casa da Montanha",
+          "Author": "João Dev",
+          "Likes": 842,
+          "Index": 1,
           "RecommendedCapacity": 6,
           "Capacity": 12,
           "Description": "Uma cabana aconchegante no topo de uma montanha nevada.",
@@ -41,6 +47,9 @@
         {
           "ID": "wrld_12345678-90ab-cdef-1234-567890abcdef",
           "Name": "Cidade Neon 2077",
+          "Author": "NeonDreamer",
+          "Likes": 2031,
+          "Index": 2,
           "RecommendedCapacity": 20,
           "Capacity": 40,
           "Description": "Uma metrópole cheia de luzes neon e drones voando.",
@@ -54,6 +63,9 @@
         {
           "ID": "wrld_ffeeddcc-bbaa-9988-7766-554433221100",
           "Name": "Laboratório Quantum",
+          "Author": "DrQuantum",
+          "Likes": 640,
+          "Index": 3,
           "RecommendedCapacity": 10,
           "Capacity": 20,
           "Description": "Um laboratório científico com máquinas misteriosas.",
