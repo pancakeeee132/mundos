@@ -91,7 +91,167 @@
           "Description": "Ruínas de uma civilização perdida repletas de segredos.",
           "Platform": { "PC": true, "Android": false, "iOS": false },
           "ReleaseStatus": "public"
+        },
+
+        <!-- NOVOS MUNDOS AQUI -->
+
+        {
+          "ID": "wrld_1111aaaa-bbbb-2222-cccc-3333dddd4444",
+          "Name": "Deserto Carmesim",
+          "Author": "RedDust",
+          "Likes": 720,
+          "Index": 8,
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "Um deserto gigante com tempestades vermelhas e criaturas de areia.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f0f0f0f0-aaaa-bbbb-cccc-ddddeeeeffff",
+          "Name": "Jardins Celestiais",
+          "Author": "SkyKeeper",
+          "Likes": 2400,
+          "Index": 9,
+          "RecommendedCapacity": 15,
+          "Capacity": 30,
+          "Description": "Jardins flutuantes com pontes de luz e criaturas etéreas.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2020abcd-3030-efef-4040-5050aaaa9999",
+          "Name": "Refúgio Submerso",
+          "Author": "DeepWave",
+          "Likes": 1600,
+          "Index": 10,
+          "RecommendedCapacity": 12,
+          "Capacity": 24,
+          "Description": "Uma cidade inteira construída no fundo do oceano.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ab12ab12-ab12-ab12-ab12-ab12ab12ab12",
+          "Name": "Templo do Sol",
+          "Author": "Aurum",
+          "Likes": 520,
+          "Index": 11,
+          "RecommendedCapacity": 6,
+          "Capacity": 12,
+          "Description": "Um templo antigo dedicado ao deus do sol, cheio de puzzles.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f1a2b3c4-d5e6-7890-1234-0987fedcba65",
+          "Name": "Distrito Cyberpunk",
+          "Author": "ByteStorm",
+          "Likes": 3300,
+          "Index": 12,
+          "RecommendedCapacity": 24,
+          "Capacity": 48,
+          "Description": "Ruas futuristas com neon, motos voadoras e cyborgs.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7777aaaa-5555bbbb-4444cccc-1111dddd9999",
+          "Name": "Vila Da Neve",
+          "Author": "SnowFox",
+          "Likes": 450,
+          "Index": 13,
+          "RecommendedCapacity": 6,
+          "Capacity": 16,
+          "Description": "Uma vila pacífica coberta por neve eterna.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0101abcd-0202dcba-0303ffff-0404aaaa",
+          "Name": "Ilha do Dragão",
+          "Author": "FireWing",
+          "Likes": 1870,
+          "Index": 14,
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "Uma ilha vulcânica guardada por um lendário dragão de fogo.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_fabcfabc-5555-6666-7777-88889999aaaa",
+          "Name": "Cidade Esmeralda",
+          "Author": "GreenSoul",
+          "Likes": 900,
+          "Index": 15,
+          "RecommendedCapacity": 18,
+          "Capacity": 36,
+          "Description": "Uma cidade construída totalmente com cristais verdes.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_321cba98-7654-fedc-ba98-76543210aaaa",
+          "Name": "Caverna do Eco",
+          "Author": "DarkMiner",
+          "Likes": 410,
+          "Index": 16,
+          "RecommendedCapacity": 4,
+          "Capacity": 10,
+          "Description": "Uma caverna profunda onde o som se comporta de forma estranha.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5555aaaa-6666bbbb-7777cccc-8888dddd",
+          "Name": "Planeta Aurora",
+          "Author": "StarLord",
+          "Likes": 2700,
+          "Index": 17,
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Um planeta gelado iluminado por auroras gigantes no céu.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_99998888-7777aaaa-6666bbbb-5555cccc",
+          "Name": "Ruínas de Ferro",
+          "Author": "RustKing",
+          "Likes": 800,
+          "Index": 18,
+          "RecommendedCapacity": 14,
+          "Capacity": 28,
+          "Description": "Uma cidade destruída onde máquinas enferrujadas ganham vida.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b7b7b7b7-c3c3c3c3-d1d1d1d1-e5e5e5e5",
+          "Name": "Santuário Lunar",
+          "Author": "MoonPriest",
+          "Likes": 1900,
+          "Index": 19,
+          "RecommendedCapacity": 10,
+          "Capacity": 25,
+          "Description": "Um santuário calmo construído na superfície da lua.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0044abcd-7788efef-1122c0c0-3344baba",
+          "Name": "Vale das Sombras",
+          "Author": "ShadeMaker",
+          "Likes": 1330,
+          "Index": 20,
+          "RecommendedCapacity": 8,
+          "Capacity": 20,
+          "Description": "Um vale sombrio onde a luz parece ser absorvida.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
         }
+
       ]
     },
 
