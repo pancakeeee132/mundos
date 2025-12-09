@@ -55,7 +55,6 @@
           "Platform": { "PC": true, "Android": false, "iOS": false },
           "ReleaseStatus": "public"
         },
-
         {
           "ID": "wrld_9999aaaa-bbbb-cccc-dddd-eeeeffffffff",
           "Name": "Praia de Verão",
@@ -92,9 +91,6 @@
           "Platform": { "PC": true, "Android": false, "iOS": false },
           "ReleaseStatus": "public"
         },
-
-        <!-- NOVOS MUNDOS AQUI -->
-
         {
           "ID": "wrld_1111aaaa-bbbb-2222-cccc-3333dddd4444",
           "Name": "Deserto Carmesim",
@@ -168,7 +164,7 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_0101abcd-0202dcba-0303ffff-0404aaaa",
+          "ID": "wrld_0101abcd-0202dcba-0303ffff-0404baba",
           "Name": "Ilha do Dragão",
           "Author": "FireWing",
           "Likes": 1870,
@@ -251,7 +247,6 @@
           "Platform": { "PC": true, "Android": false, "iOS": false },
           "ReleaseStatus": "public"
         }
-
       ]
     },
 
