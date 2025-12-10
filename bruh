@@ -1,250 +1,105 @@
 {
   "ReverseCategorys": false,
   "ShowPrivateWorld": true,
-
   "Categorys": [
 
     {
       "Category": "todos",
       "Worlds": [
         {
-          "ID": "wrld_8d0c0554-9b02-44ae-a30d-0581f1c0412a",
-          "Name": "Isolated",
-          "Author": "CreatorName",
-          "Likes": 1240,
+          "ID": "wrld_001",
+          "Name": "Serenity Lake",
+          "Author": "CalmStudio",
+          "Likes": 1520,
           "Index": 1,
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Isolated․",
+          "RecommendedCapacity": 8,
+          "Capacity": 20,
+          "Description": "Um lago silencioso com luz dourada do pôr do sol.",
           "Platform": { "PC": true, "Android": true, "iOS": false },
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_dddd4444-eeee-5555-ffff-666666666666",
-          "Name": "Casa da Montanha",
-          "Author": "João Dev",
-          "Likes": 842,
+          "ID": "wrld_002",
+          "Name": "DreamShell Home",
+          "Author": "HomeCraft",
+          "Likes": 870,
           "Index": 2,
           "RecommendedCapacity": 6,
           "Capacity": 12,
-          "Description": "Uma cabana aconchegante no topo de uma montanha nevada.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "private"
+          "Description": "Uma casa futurista minimalista em tons pastéis.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_12345678-90ab-cdef-1234-567890abcdef",
-          "Name": "Cidade Neon 2077",
-          "Author": "NeonDreamer",
-          "Likes": 2031,
+          "ID": "wrld_003",
+          "Name": "Avatar Forge",
+          "Author": "MetaSmith",
+          "Likes": 2100,
           "Index": 3,
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "Uma metrópole cheia de luzes neon e drones voando.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_ffeeddcc-bbaa-9988-7766-554433221100",
-          "Name": "Laboratório Quantum",
-          "Author": "DrQuantum",
-          "Likes": 640,
-          "Index": 4,
-          "RecommendedCapacity": 10,
-          "Capacity": 20,
-          "Description": "Um laboratório científico com máquinas misteriosas.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_9999aaaa-bbbb-cccc-dddd-eeeeffffffff",
-          "Name": "Praia de Verão",
-          "Author": "SunMaker",
-          "Likes": 1780,
-          "Index": 5,
-          "RecommendedCapacity": 12,
-          "Capacity": 24,
-          "Description": "Uma praia tropical ensolarada com música ambiente relaxante.",
-          "Platform": { "PC": true, "Android": true, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_a1b2c3d4-e5f6-1122-3344-556677889900",
-          "Name": "Floresta Cristalina",
-          "Author": "Lumia",
-          "Likes": 910,
-          "Index": 6,
-          "RecommendedCapacity": 8,
-          "Capacity": 16,
-          "Description": "Uma floresta mágica com árvores brilhantes.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_abc12345-def6-7890-ab12-cd34ef56ab78",
-          "Name": "Cidade Antiga de Arkanos",
-          "Author": "LoreMaster",
-          "Likes": 1340,
-          "Index": 7,
-          "RecommendedCapacity": 30,
-          "Capacity": 50,
-          "Description": "Ruínas de uma civilização perdida repletas de segredos.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_1111aaaa-bbbb-2222-cccc-3333dddd4444",
-          "Name": "Deserto Carmesim",
-          "Author": "RedDust",
-          "Likes": 720,
-          "Index": 8,
-          "RecommendedCapacity": 10,
-          "Capacity": 20,
-          "Description": "Um deserto gigante com tempestades vermelhas e criaturas de areia.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_f0f0f0f0-aaaa-bbbb-cccc-ddddeeeeffff",
-          "Name": "Jardins Celestiais",
-          "Author": "SkyKeeper",
-          "Likes": 2400,
-          "Index": 9,
-          "RecommendedCapacity": 15,
-          "Capacity": 30,
-          "Description": "Jardins flutuantes com pontes de luz e criaturas etéreas.",
-          "Platform": { "PC": true, "Android": true, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_2020abcd-3030-efef-4040-5050aaaa9999",
-          "Name": "Refúgio Submerso",
-          "Author": "DeepWave",
-          "Likes": 1600,
-          "Index": 10,
-          "RecommendedCapacity": 12,
-          "Capacity": 24,
-          "Description": "Uma cidade inteira construída no fundo do oceano.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_ab12ab12-ab12-ab12-ab12-ab12ab12ab12",
-          "Name": "Templo do Sol",
-          "Author": "Aurum",
-          "Likes": 520,
-          "Index": 11,
-          "RecommendedCapacity": 6,
-          "Capacity": 12,
-          "Description": "Um templo antigo dedicado ao deus do sol, cheio de puzzles.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_f1a2b3c4-d5e6-7890-1234-0987fedcba65",
-          "Name": "Distrito Cyberpunk",
-          "Author": "ByteStorm",
-          "Likes": 3300,
-          "Index": 12,
-          "RecommendedCapacity": 24,
-          "Capacity": 48,
-          "Description": "Ruas futuristas com neon, motos voadoras e cyborgs.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_7777aaaa-5555bbbb-4444cccc-1111dddd9999",
-          "Name": "Vila Da Neve",
-          "Author": "SnowFox",
-          "Likes": 450,
-          "Index": 13,
-          "RecommendedCapacity": 6,
-          "Capacity": 16,
-          "Description": "Uma vila pacífica coberta por neve eterna.",
-          "Platform": { "PC": true, "Android": true, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_0101abcd-0202dcba-0303ffff-0404baba",
-          "Name": "Ilha do Dragão",
-          "Author": "FireWing",
-          "Likes": 1870,
-          "Index": 14,
-          "RecommendedCapacity": 10,
-          "Capacity": 20,
-          "Description": "Uma ilha vulcânica guardada por um lendário dragão de fogo.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_fabcfabc-5555-6666-7777-88889999aaaa",
-          "Name": "Cidade Esmeralda",
-          "Author": "GreenSoul",
-          "Likes": 900,
-          "Index": 15,
-          "RecommendedCapacity": 18,
-          "Capacity": 36,
-          "Description": "Uma cidade construída totalmente com cristais verdes.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_321cba98-7654-fedc-ba98-76543210aaaa",
-          "Name": "Caverna do Eco",
-          "Author": "DarkMiner",
-          "Likes": 410,
-          "Index": 16,
           "RecommendedCapacity": 4,
-          "Capacity": 10,
-          "Description": "Uma caverna profunda onde o som se comporta de forma estranha.",
+          "Capacity": 16,
+          "Description": "Laboratório para criação e edição de avatares.",
           "Platform": { "PC": true, "Android": false, "iOS": false },
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_5555aaaa-6666bbbb-7777cccc-8888dddd",
-          "Name": "Planeta Aurora",
-          "Author": "StarLord",
-          "Likes": 2700,
-          "Index": 17,
+          "ID": "wrld_004",
+          "Name": "Crystal RPG Tavern",
+          "Author": "RoleMaster",
+          "Likes": 960,
+          "Index": 4,
+          "RecommendedCapacity": 12,
+          "Capacity": 24,
+          "Description": "Uma taverna fantasiosa ideal para roleplay medieval.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_005",
+          "Name": "Skyball Arena",
+          "Author": "VRGamesLab",
+          "Likes": 1840,
+          "Index": 5,
+          "RecommendedCapacity": 10,
+          "Capacity": 16,
+          "Description": "Arena esportiva futurista com partidas rápidas.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_006",
+          "Name": "Moonlight Club",
+          "Author": "BeatWave",
+          "Likes": 3120,
+          "Index": 6,
           "RecommendedCapacity": 20,
           "Capacity": 40,
-          "Description": "Um planeta gelado iluminado por auroras gigantes no céu.",
+          "Description": "Balada neon com DJ automático e iluminação sincronizada.",
           "Platform": { "PC": true, "Android": true, "iOS": true },
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_99998888-7777aaaa-6666bbbb-5555cccc",
-          "Name": "Ruínas de Ferro",
-          "Author": "RustKing",
-          "Likes": 800,
-          "Index": 18,
-          "RecommendedCapacity": 14,
-          "Capacity": 28,
-          "Description": "Uma cidade destruída onde máquinas enferrujadas ganham vida.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_b7b7b7b7-c3c3c3c3-d1d1d1d1-e5e5e5e5",
-          "Name": "Santuário Lunar",
-          "Author": "MoonPriest",
-          "Likes": 1900,
-          "Index": 19,
-          "RecommendedCapacity": 10,
-          "Capacity": 25,
-          "Description": "Um santuário calmo construído na superfície da lua.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_0044abcd-7788efef-1122c0c0-3344baba",
-          "Name": "Vale das Sombras",
-          "Author": "ShadeMaker",
-          "Likes": 1330,
-          "Index": 20,
+          "ID": "wrld_007",
+          "Name": "Chill Garden",
+          "Author": "ZenFlow",
+          "Likes": 1120,
+          "Index": 7,
           "RecommendedCapacity": 8,
-          "Capacity": 20,
-          "Description": "Um vale sombrio onde a luz parece ser absorvida.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "Capacity": 16,
+          "Description": "Um jardim com flores brilhantes e música suave.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_008",
+          "Name": "CyberWave Social Plaza",
+          "Author": "NeonNet",
+          "Likes": 2400,
+          "Index": 8,
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Praça social futurista cheia de hologramas.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
           "ReleaseStatus": "public"
         }
       ]
@@ -254,99 +109,219 @@
       "Category": "vibes",
       "Worlds": [
         {
-          "ID": "wrld_8d0c0554-9b02-44ae-a30d-0581f1c0412a",
-          "Name": "Isolated",
-          "Author": "CreatorName",
-          "Likes": 1240,
+          "ID": "wrld_001",
+          "Name": "Serenity Lake",
+          "Author": "CalmStudio",
+          "Likes": 1520,
           "Index": 1,
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Isolated․",
+          "RecommendedCapacity": 8,
+          "Capacity": 20,
+          "Description": "Um lago silencioso com luz dourada do pôr do sol.",
           "Platform": { "PC": true, "Android": true, "iOS": false },
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_dddd4444-eeee-5555-ffff-666666666666",
-          "Name": "Casa da Montanha",
-          "Author": "João Dev",
-          "Likes": 842,
+          "ID": "wrld_007",
+          "Name": "Chill Garden",
+          "Author": "ZenFlow",
+          "Likes": 1120,
+          "Index": 7,
+          "RecommendedCapacity": 8,
+          "Capacity": 16,
+          "Description": "Um jardim cheio de flores brilhantes e tranquilidade.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+
+    {
+      "Category": "avatares",
+      "Worlds": [
+        {
+          "ID": "wrld_003",
+          "Name": "Avatar Forge",
+          "Author": "MetaSmith",
+          "Likes": 2100,
+          "Index": 3,
+          "RecommendedCapacity": 4,
+          "Capacity": 16,
+          "Description": "Laboratório avançado para edição de avatares.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_020",
+          "Name": "Mirror Studio",
+          "Author": "ReflexDev",
+          "Likes": 1800,
+          "Index": 20,
+          "RecommendedCapacity": 6,
+          "Capacity": 10,
+          "Description": "Um estúdio com espelhos holográficos para testar visuais.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+
+    {
+      "Category": "games",
+      "Worlds": [
+        {
+          "ID": "wrld_005",
+          "Name": "Skyball Arena",
+          "Author": "VRGamesLab",
+          "Likes": 1840,
+          "Index": 5,
+          "RecommendedCapacity": 10,
+          "Capacity": 16,
+          "Description": "Arena esportiva futurista com dinâmica intensa.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_015",
+          "Name": "Dungeon Break",
+          "Author": "PixelKnight",
+          "Likes": 1340,
+          "Index": 15,
+          "RecommendedCapacity": 6,
+          "Capacity": 10,
+          "Description": "Mini dungeon com puzzles e monstros.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_016",
+          "Name": "Megabot Arena",
+          "Author": "RoboDev",
+          "Likes": 2200,
+          "Index": 16,
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "Combates entre robôs gigantes.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+
+    {
+      "Category": "musica",
+      "Worlds": [
+        {
+          "ID": "wrld_006",
+          "Name": "Moonlight Club",
+          "Author": "BeatWave",
+          "Likes": 3120,
+          "Index": 6,
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Balada neon com som grave e lasers sincronizados.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_014",
+          "Name": "RetroWave Stage",
+          "Author": "SynthPop",
+          "Likes": 1500,
+          "Index": 14,
+          "RecommendedCapacity": 10,
+          "Capacity": 25,
+          "Description": "Show musical em estilo anos 80 neon.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+
+    {
+      "Category": "home",
+      "Worlds": [
+        {
+          "ID": "wrld_002",
+          "Name": "DreamShell Home",
+          "Author": "HomeCraft",
+          "Likes": 870,
           "Index": 2,
           "RecommendedCapacity": 6,
           "Capacity": 12,
-          "Description": "Uma cabana aconchegante no topo de uma montanha nevada.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
-          "ReleaseStatus": "private"
+          "Description": "Casa pequena minimalista com iluminação suave.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_9999aaaa-bbbb-cccc-dddd-eeeeffffffff",
-          "Name": "Praia de Verão",
-          "Author": "SunMaker",
-          "Likes": 1780,
-          "Index": 5,
+          "ID": "wrld_019",
+          "Name": "Sky Apartment 32F",
+          "Author": "CityLuxe",
+          "Likes": 1020,
+          "Index": 19,
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "Apartamento moderno em um arranha-céu com vista panorâmica.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+
+    {
+      "Category": "RP",
+      "Worlds": [
+        {
+          "ID": "wrld_004",
+          "Name": "Crystal RPG Tavern",
+          "Author": "RoleMaster",
+          "Likes": 960,
+          "Index": 4,
           "RecommendedCapacity": 12,
           "Capacity": 24,
-          "Description": "Uma praia tropical ensolarada com música ambiente relaxante.",
+          "Description": "Taverna ideal para roleplay medieval.",
           "Platform": { "PC": true, "Android": true, "iOS": false },
           "ReleaseStatus": "public"
-        }
-      ]
-    },
-
-    {
-      "Category": "Evento 2 – Mundos Futuristas",
-      "Worlds": [
-        {
-          "ID": "wrld_12345678-90ab-cdef-1234-567890abcdef",
-          "Name": "Cidade Neon 2077",
-          "Author": "NeonDreamer",
-          "Likes": 2031,
-          "Index": 3,
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "Uma metrópole cheia de luzes neon e drones voando.",
-          "Platform": { "PC": true, "Android": true, "iOS": true },
-          "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_ffeeddcc-bbaa-9988-7766-554433221100",
-          "Name": "Laboratório Quantum",
-          "Author": "DrQuantum",
-          "Likes": 640,
-          "Index": 4,
+          "ID": "wrld_011",
+          "Name": "Mystic Forest RP",
+          "Author": "ElderRoot",
+          "Likes": 1900,
+          "Index": 11,
           "RecommendedCapacity": 10,
           "Capacity": 20,
-          "Description": "Um laboratório científico com máquinas misteriosas.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "Description": "Floresta encantada com ruínas antigas para aventuras RP.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
           "ReleaseStatus": "public"
         }
       ]
     },
 
     {
-      "Category": "Fantasia & Magia",
+      "Category": "social",
       "Worlds": [
         {
-          "ID": "wrld_a1b2c3d4-e5f6-1122-3344-556677889900",
-          "Name": "Floresta Cristalina",
-          "Author": "Lumia",
-          "Likes": 910,
-          "Index": 6,
-          "RecommendedCapacity": 8,
-          "Capacity": 16,
-          "Description": "Uma floresta mágica com árvores brilhantes.",
+          "ID": "wrld_008",
+          "Name": "CyberWave Social Plaza",
+          "Author": "NeonNet",
+          "Likes": 2400,
+          "Index": 8,
+          "RecommendedCapacity": 30,
+          "Capacity": 60,
+          "Description": "Praça futurista cheia de hologramas e espaços de encontro.",
           "Platform": { "PC": true, "Android": true, "iOS": true },
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_abc12345-def6-7890-ab12-cd34ef56ab78",
-          "Name": "Cidade Antiga de Arkanos",
-          "Author": "LoreMaster",
-          "Likes": 1340,
-          "Index": 7,
-          "RecommendedCapacity": 30,
-          "Capacity": 50,
-          "Description": "Ruínas de uma civilização perdida repletas de segredos.",
-          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ID": "wrld_017",
+          "Name": "Starlight Lounge",
+          "Author": "GalaxyHub",
+          "Likes": 1650,
+          "Index": 17,
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Um lounge flutuante no espaço com vista para nebulosas.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
           "ReleaseStatus": "public"
         }
       ]
