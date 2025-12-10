@@ -101,6 +101,90 @@
           "Description": "Praça social futurista cheia de hologramas.",
           "Platform": { "PC": true, "Android": true, "iOS": true },
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_011",
+          "Name": "Mystic Forest RP",
+          "Author": "ElderRoot",
+          "Likes": 1900,
+          "Index": 11,
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "Floresta encantada com ruínas antigas para aventuras RP.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_014",
+          "Name": "RetroWave Stage",
+          "Author": "SynthPop",
+          "Likes": 1500,
+          "Index": 14,
+          "RecommendedCapacity": 10,
+          "Capacity": 25,
+          "Description": "Show musical em estilo anos 80 neon.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_015",
+          "Name": "Dungeon Break",
+          "Author": "PixelKnight",
+          "Likes": 1340,
+          "Index": 15,
+          "RecommendedCapacity": 6,
+          "Capacity": 10,
+          "Description": "Mini dungeon com puzzles e monstros.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_016",
+          "Name": "Megabot Arena",
+          "Author": "RoboDev",
+          "Likes": 2200,
+          "Index": 16,
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "Combates entre robôs gigantes.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_017",
+          "Name": "Starlight Lounge",
+          "Author": "GalaxyHub",
+          "Likes": 1650,
+          "Index": 17,
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Um lounge flutuante no espaço com vista para nebulosas.",
+          "Platform": { "PC": true, "Android": true, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_019",
+          "Name": "Sky Apartment 32F",
+          "Author": "CityLuxe",
+          "Likes": 1020,
+          "Index": 19,
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "Apartamento moderno em um arranha-céu com vista panorâmica.",
+          "Platform": { "PC": true, "Android": false, "iOS": false },
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_020",
+          "Name": "Mirror Studio",
+          "Author": "ReflexDev",
+          "Likes": 1800,
+          "Index": 20,
+          "RecommendedCapacity": 6,
+          "Capacity": 10,
+          "Description": "Um estúdio com espelhos holográficos para testar visuais.",
+          "Platform": { "PC": true, "Android": true, "iOS": true },
+          "ReleaseStatus": "public"
         }
       ]
     },
